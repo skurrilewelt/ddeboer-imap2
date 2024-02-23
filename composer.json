@@ -1,6 +1,6 @@
 {
-    "name": "ddeboer/imap",
-    "description": "Object-oriented IMAP for PHP",
+    "name": "skurrilewelt/ddeboer-imap2",
+    "description": "Object-oriented IMAP for PHP / this is the version 1.12.2 only, oauth2 capability added",
     "keywords": [
         "email",
         "mail",
@@ -15,6 +15,10 @@
         {
             "name": "Filippo Tessarotto",
             "email": "zoeslam@gmail.com"
+        },
+        {
+            "name": "Olaf Sweekhorst",
+            "email": "info@skurrilewelt.de"
         },
         {
             "name": "Community contributors",
